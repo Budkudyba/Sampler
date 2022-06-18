@@ -1,0 +1,4 @@
+Z_down_pick_up_tip	Z_lift_to_clear
+Z_down_for_sample	Z_up_for_sample
+sample_time_vac	sample_time_comp
+safe_eject_location_x	eject_location_y	eject_location_x 
